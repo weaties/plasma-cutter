@@ -5,7 +5,7 @@ Once it works, it becomes the maker space's steel-cutting machine; the hub's `pl
 
 | | |
 |---|---|
-| Status | planning: plans not yet bought |
+| Status | all parts in hand (2026-11-07); building at Stefan's house |
 | Cutting area | 28 × 32 in (711 × 812 mm) |
 | Frame | 2 × 2 in steel tube (imperial build) or 50 × 50 mm (metric) |
 | Controller | ESP32, open-source firmware (the plans cover flashing it) |
@@ -43,8 +43,8 @@ New part: `cp -R ~/src/solidcraft/templates/part parts/<slug>` (IDs `PC-001`…)
 ## Phases
 | # | Phase | Owner | Done |
 |---|---|---|---|
-| 1 | Decide build options (`decisions.md`) and buy the plans | | ☐ |
-| 2 | Transcribe the BOM into `bom.csv`, split purchasing | | ☐ |
+| 1 | Decide build options (`decisions.md`) and buy the plans | DW, Stefan | ☑ |
+| 2 | Buy the parts (all in hand 2026-11-07; transcribe the plans' BOM into `bom.csv` as the record) | DW, Stefan | ☑ |
 | 3 | Print the plans' 3D parts (Bambu, PETG/ASA, see `plans/README.md`) | DW | ☐ |
 | 4 | Plates: buy JD's pre-cut set ($95-100) or cut them | | ☐ |
 | 5 | Cut and weld/bolt the frame (1-2 days with parts on hand) | | ☐ |
