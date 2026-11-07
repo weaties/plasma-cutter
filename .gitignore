@@ -1,0 +1,8 @@
+# Paid plans and files derived from them: local only (see plans/README.md)
+plans/*
+!plans/README.md
+# Regenerable
+**/print/*.stl
+**/out/*.json
+.DS_Store
+*.sc.bak

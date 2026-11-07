@@ -1,0 +1,9 @@
+item,qty,spec,source,unit_cost,status,buyer,notes
+Plans (JD's Garage Gen 2.0),1,online access,https://jdsgarage.bigcartel.com/product/cnc-plasma-cutter-plans,25,todo,,plans only; or bundles with plates ($120) / plates + printed parts + Z ($230)
+Plasma cutter,1,low-frequency blowback start; CNC port preferred,see recommended list,,decide,,see decisions.md
+Steel tube,,2x2 in (imperial) or 50x50 mm,local steel supplier,,todo,,quantities and wall thickness from the plans' BOM
+Pre-cut plates (optional),1,Gen 2.0 plate set,https://jdsgarage.bigcartel.com/product/pre-cut-plates-for-cnc-machine,100,decide,,or cut them ourselves
+3D printed parts,1,from the plans' STLs,print ourselves (Bambu),,todo,DW,JD sells a printed set for $90-120 if we'd rather not
+ESP32 controller + control box,1,per plans,per plans BOM,50-75,todo,,JD's estimate for the full control box
+Limit switches (optional),,opto-isolated,per plans BOM,,decide,,
+Z axis (optional),1,per plans,per plans BOM,,decide,,printed Z parts sold separately ($40)
